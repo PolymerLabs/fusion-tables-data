@@ -1,0 +1,7 @@
+{
+  "name": "fusion-tables-data#gh-pages",
+  "private": true,
+  "dependencies": {
+    "fusion-tables-data": "polymerlabs/fusion-tables-data#master"
+  }
+}
